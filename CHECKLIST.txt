@@ -1,0 +1,15 @@
+1. Web App 
+
+2. Retrieve stock data
+    - Update data daily using 'cron'
+    - possibly live update using websockets
+
+3. Graph individual stock performance
+
+4. Graph overall portfolio performance
+    - Use 'stacking' graph
+
+5. Must allow for multiple users
+    - Each user has a portfolio, possibly allow for multiple
+
+6. Add tip section for individual stocks
